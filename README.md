@@ -1,0 +1,1 @@
+Getting into the Game of Life problem before @jsCodeRetreat

@@ -1,0 +1,19 @@
+{
+  "name": "practise-in-train",
+  "version": "0.0.1",
+  "description": "Practising Game of Life before Berlin JS Code Retreat",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "game",
+    "of",
+    "life"
+  ],
+  "author": "@tonovotny",
+  "license": "ISC"
+}
